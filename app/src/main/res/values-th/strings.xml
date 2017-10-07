@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="calculate_label">คำนวณ</string>
+    <string name="height_label">ความสูง (ซม.)</string>
+    <string name="weight_label">น้ำหนัก (กก.)</string>
+</resources>
